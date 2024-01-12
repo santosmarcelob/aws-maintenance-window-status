@@ -1,0 +1,6 @@
+id_rsa
+log.txt
+/terraform/*
+!/terraform/main.tf
+!/terraform/outputs.tf
+!/terraform/providers.tf

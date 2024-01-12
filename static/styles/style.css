@@ -1,0 +1,14 @@
+.success, .failed, .inprogress {
+    display: block;
+}
+.success {
+    color: green;
+}
+
+.failed {
+    color: red;
+}
+
+.inprogress {
+    color: yellow;
+}

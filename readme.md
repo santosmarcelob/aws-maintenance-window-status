@@ -2,6 +2,8 @@
 
 Objective: Deploy a dashboard to monitor the status of the Maintenance Window instance update, making it easier and faster to monitor and focus on resolving the issues that come up with the failed instances.
 
+![AWS MW Monitoring Diagram](https://github.com/santosmarcelob/aws-maintenance-window-status/blob/main/MW_Status_Diagram.png)
+
 **Before starting:**
 - Login to AWS with the profile
 - Create a key **id_rsa**
